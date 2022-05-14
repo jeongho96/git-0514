@@ -1,6 +1,6 @@
 def hi(name):
-    print("hihi", name)
+    print("hihi--main", name)
 
 if __name__ == "__main__":
-    print("This is say.py")
+    print("This is say.py - main")
     hi('jamong')
